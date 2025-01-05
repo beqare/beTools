@@ -1,6 +1,6 @@
 # [DOWNLOAD LATEST](https://github.com/snoopti/beTools/releases/latest)
 
-![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/beqare/snooTools/total)
+![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/beqare/beTools/total)
 
 
 ![logo](https://beqare.de/cloud/snootools/logo.png)
@@ -15,6 +15,9 @@ Do not spread untruths and do not claim that it is a virus, look in the source c
 ---
 
 ![changelog](https://beqare.de/cloud/snootools/changelog-text.png)
+
+### v2.0.3
+- added setup
 
 ### v2.0.2
 - added opera path
