@@ -1,4 +1,4 @@
-# [DOWNLOAD LATEST](https://github.com/snoopti/snooTools/releases/latest)
+# [DOWNLOAD LATEST](https://github.com/snoopti/beTools/releases/latest)
 
 ![GitHub Downloads (all assets, all releases)](https://img.shields.io/github/downloads/beqare/snooTools/total)
 
